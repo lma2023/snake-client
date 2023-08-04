@@ -1,4 +1,4 @@
-const HOST = '192.168.43.254';
+const HOST = 'localhost';
 const PORT = 50541;
 const NAME = "Name: Marina";
 
