@@ -11,3 +11,23 @@ Before you can run this client, you will need to be running the server side whic
 
 - Follow steps inside the snek server repo to run the server side
 - Run the development snake client using the `node play.js` command.
+
+## Final Product
+
+!["screenshot description"](./docs/nameofyourscreenshot.jpg)
+
+## Movement Commands and Messages
+
+Use W A S D to navigate the snake up, down, left, or right. Eat the red dot to gain points. If the snake collides with the wall or its own tail, it's game over. Press CTRL + C to quit the game.
+
+Press w to "Move: up" - move up one square (unless facing down)
+Press s to "Move: down" - move down one square (unless facing up)
+Press a to "Move: left" - move left one square (unless facing right)
+Press d to "Move: right" - move left one square (unless facing left)
+
+Press q to say Hello
+Press e to say I am having fun!
+Press r to say Good Bye!
+
+
+
