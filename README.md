@@ -15,7 +15,6 @@ Before you can run this client, you will need to be running the server side whic
 ## Final Product
 
 [Snake game](https://raw.githubusercontent.com/taniarascia/snek/master/snek.gif)
-[1](https://raw.githubusercontent.com/taniarascia/snek/master/snek.gif)
 
 
 ## Movement Commands and Messages
