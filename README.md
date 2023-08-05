@@ -14,7 +14,7 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-!["screenshot description"](./docs/.snakeimage.png)
+!["screenshot description"](./docs/.image.png)
 
 ## Movement Commands and Messages
 
