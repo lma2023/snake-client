@@ -20,6 +20,8 @@ Before you can run this client, you will need to be running the server side whic
 
 [https://raw.githubusercontent.com/taniarascia/snek/master/snek.gif](https://raw.githubusercontent.com/taniarascia/snek/master/snek.gif)
 
+[
+](https://raw.githubusercontent.com/taniarascia/snek/master/snek.gif)
 ## Movement Commands and Messages
 
 Use W A S D to navigate the snake up, down, left, or right. Eat the red dot to gain points. 
