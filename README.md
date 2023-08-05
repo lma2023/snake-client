@@ -14,8 +14,8 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-[Snake game](https://raw.githubusercontent.com/taniarascia/snek/master/snek.gif)
-
+### "Hello" message
+![snakeimage](https://github.com/lma2023/snake-client/assets/132856322/047ec4ec-93c9-4f9a-a9ed-c02d91d37dd8)
 
 ## Movement Commands and Messages
 
