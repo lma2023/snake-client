@@ -18,7 +18,7 @@ Before you can run this client, you will need to be running the server side whic
 
 ![snakeimage](https://github.com/lma2023/snake-client/assets/132856322/bea3221c-79ef-481c-8269-cef2f6559b61)
 
-[https://raw.githubusercontent.com/taniarascia/snek/master/snek.gif](https://raw.githubusercontent.com/taniarascia/snek/master/snek.gif)
+[Snek](https://raw.githubusercontent.com/taniarascia/snek/master/snek.gif)
 
 ![snek-2](https://github.com/lma2023/snake-client/assets/132856322/6b933c40-01c7-44ac-bd6e-5df476c3632e)
 
