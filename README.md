@@ -14,7 +14,7 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-## Sending "Hello" message
+Sending "Hello" message
 
 ![snakeimage](https://github.com/lma2023/snake-client/assets/132856322/bea3221c-79ef-481c-8269-cef2f6559b61)
 
