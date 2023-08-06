@@ -14,7 +14,7 @@ Before you can run this client, you will need to be running the server side whic
 
 ## Final Product
 
-![snake_image](https://github.com/lma2023/snake-client/assets/132856322/06226fce-ff3a-4efb-b363-82f5b0996aaf)
+![snake_image](https://github.com/lma2023/snake-client/assets/132856322/ef0f3d89-748b-430b-b918-e5435b13b9f4)
 
 ## Movement Commands and Messages
 
