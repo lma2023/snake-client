@@ -1,4 +1,4 @@
-const { UP, DOWN, LEFT, RIGHT, messages} = require("./constants");
+const MOVES = require("./constants");
 
 let connection;
 
@@ -15,21 +15,9 @@ const setupInput = function(conn) {
     if (key === '\u0003') {
       // Ctrl + C was pressed, terminate the game
       process.exit();
-    } else if (key === 'w') {
-      connection.write("Move: up"); // Use the movement command from the MOVEMENT_COMMANDS constant.
-    } else if (key === 'a') {
-      connection.write("Move: left");
-    } else if (key === 's') {
-      connection.write("Move: down");
-    } else if (key === 'd') {
-      connection.write("Move: right");
-    } else if (key === 'q') {
-      connection.write("Say: Hello!");
-    } else if (key === 'e') {
-      connection.write("Say: I'm having fun!");
-    } else if (key === 'r') {
-      connection.write("Say: Good Bye!");
-    }
-  };
+    } else if (MOVES[key]) {
+      connection.write(MOVES[key]);
+    };
+  }
 
 module.exports = { setupInput };
