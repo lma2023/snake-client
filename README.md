@@ -29,4 +29,3 @@ If the snake collides with the wall or its own tail, it's game over. Press CTRL 
 - Press e to say "I am having fun!"
 - Press r to say "Good Bye!"
 
-
