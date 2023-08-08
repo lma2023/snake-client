@@ -1,4 +1,4 @@
-const MOVES = require("./constants");
+const { MOVES } = require("./constants");
 
 let connection;
 
